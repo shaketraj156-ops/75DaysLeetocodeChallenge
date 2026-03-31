@@ -1,10 +1,13 @@
 class Solution {
     public int mySqrt(int n) {
-        int root = -1;
-       for(int i =0; i<=n; i++){
-        if((long)i*i>n) break;
-        root = i;
-       }
-       return root;
+    long lo = 1;
+    long hi = n;
+    while(lo<=hi){
+        long mid = (lo+hi)/2;
+        if(mid*mid==n) return (int)mid;
+        else if(mid*mid>n) hi = mid-1;
+        else lo = mid+1;
+    }
+    return (int)hi;
     }
 }
