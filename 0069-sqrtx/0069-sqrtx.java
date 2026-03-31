@@ -8,6 +8,6 @@ class Solution {
         else if(mid>n/mid) hi = mid-1;
         else lo = mid+1;
     }
-    return (int)hi;
+    return hi;
     }
 }
