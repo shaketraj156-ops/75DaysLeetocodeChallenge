@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
