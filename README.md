@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shaketraj156-ops/75DaysLeetocodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
